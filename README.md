@@ -1,5 +1,3 @@
-# Enrico Voltan
-
 👋 Hello! I'm Enrico Voltan, a developer based in Lisbon, Portugal. Welcome to my GitHub profile!
 
 ## About Me
