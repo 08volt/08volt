@@ -1,10 +1,10 @@
-👋 Hello! I'm Enrico Voltan, a developer based in Lisbon, Portugal. Welcome to my GitHub profile!
+👋 Hello! I'm Enrico Voltan, a software developer based in Lisbon, Portugal. Welcome to my GitHub profile!
 
 ## About Me
 
 - 🌍 Location: Lisbon, Portugal
-- 💼 Currently working as: Data Engineer
-- 🎓 Education: Master's degree in Computer Science and Engineering from Politecnico di Milano
+- 💼 Current position: Data Engineer
+- 🎓 Education: Master's degree in Computer Science and Engineering at Politecnico di Milano
 
 ## Skills 
 <div align="center"> 
@@ -22,8 +22,8 @@
 </div>  
 
 - 💻 Programming Languages: Rust, Python, Go, Java, JavaScript, TypeScript, Scala
+- 👨🏼‍💻 Expertise: Software Development, Algorithms, Machine Learning
 - ☁️ Cloud: AWS (Certified Solution Architect - Associate)
-- 🛠️ Technologies: Spark, Matlab
 
 ## Contact
 
