@@ -22,7 +22,7 @@
 </div>  
 
 - 💻 Programming Languages: Rust, Python, Go, Java, JavaScript, TypeScript, Scala
-- 👨🏼‍💻 Expertise: Software Development, Algorithms, Machine Learning
+- 👨🏼‍💻 Expertise: Software and Web Development, Algorithms, Machine Learning
 - ☁️ Cloud: AWS (Certified Solution Architect - Associate)
 
 ## Contact
