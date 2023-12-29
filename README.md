@@ -22,17 +22,17 @@
 - 👨🏼‍💻 Expertise: Software and Web Development, Algorithms, Machine Learning
 - ☁️ Cloud: AWS (Certified Solution Architect - Associate)
 
-## Contact
+## Contacts
 
 - 📧 Email: voltan.enrico@gmail.com
 - 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/enrico-voltan-08/)
 
-## Contribution
+## Contributions
 
 If you find any issues with my projects or have suggestions, please feel free to open an issue or submit a pull request. Contributions are always welcome!
 
 Thank you for visiting my GitHub profile! 🚀
 
-## Private Projects:
+## Private Projects
 
 - 🦛 Hippo: [ webapp ](https://www.hippomaps.com) 
