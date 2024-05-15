@@ -2,8 +2,8 @@
 
 ## About Me
 
-- 🌍 Location: Lisbon, Portugal
-- 💼 Current position: Data Engineer
+- 🌍 Location: Warsaw, Poland
+- 💼 Current position: Software Engineer @ Google
 - 🎓 Education: Master's degree in Computer Science and Engineering at Politecnico di Milano
 
 ## Skills 
