@@ -20,7 +20,7 @@
 
 - 💻 Programming Languages: Rust, Python, Go, Java, JavaScript, TypeScript, Scala
 - 👨🏼‍💻 Expertise: Software and Web Development, Algorithms, Machine Learning
-- ☁️ Cloud: AWS (Certified Solution Architect - Associate)
+- ☁️ Cloud: GoogleCloud, AWS (Certified Solution Architect - Associate)
 
 ## Contacts
 
