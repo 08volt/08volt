@@ -1,4 +1,4 @@
-👋 Hello! I'm Enrico Voltan, a software developer based in Lisbon, Portugal. Welcome to my GitHub profile!
+👋 Hello! I'm Enrico Voltan, a software developer based in Warsaw, Poland. Welcome to my GitHub profile!
 
 ## About Me
 
