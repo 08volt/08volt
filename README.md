@@ -36,4 +36,4 @@ Thank you for visiting my GitHub profile! 🚀
 ## Private Projects
 
 - 🦛 Hippo: [ Using Generative Ai to create mind maps ](https://www.hippomaps.com)
-- 🤖 Laxi: [ Integrate Generative Ai into businesses websites ](https://www.laxi.ai/)
+- 🤖 laxi.ai: [ Integrate Generative Ai into ecommerce websites ](https://www.laxi.ai/)
